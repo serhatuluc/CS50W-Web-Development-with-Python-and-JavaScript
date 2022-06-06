@@ -1,0 +1,27 @@
+.navbar{
+    text-align: right;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+.navbar a {
+    position: absolute;
+    right: 100px;
+
+}
+.navbar #a1{
+    position: absolute;
+    right: 1px;
+}
+.center {
+ text-align: center;   
+}
+#image{
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: absolute;
+    left: 760px;
+    top: 75px;
+    white-space: nowrap;
+
+}
